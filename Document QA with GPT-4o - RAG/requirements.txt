@@ -1,0 +1,7 @@
+langchain
+langchainhub
+langchain-community
+unstructured[pdf]
+sentence_transformers
+faiss-cpu
+langchain-openai
